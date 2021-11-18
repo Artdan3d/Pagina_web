@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+#tituloPrincipal { 
+    color: rgb(164, 176, 216);
+    margin-left: 40px;
+}
+.clasetitulo{
+    color: red;
+
+}
+.clasetitulo3{ color: blue;
+}
